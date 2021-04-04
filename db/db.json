@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "activator": "a",
+      "text": "hello my name is"
+    },
+    {
+      "id": 2,
+      "activator": "hell",
+      "text": "hello"
+    },
+    {
+      "id": 3,
+      "activator": "fredde",
+      "text": "galen"
+    }
+  ]
+}
