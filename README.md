@@ -1,4 +1,1 @@
-# remember
-# remember
-# remember
-# remember
+Example usage: your Discord has a minecraft server which new people join every day. You don't want to repeat the IP over and over again so you create a command which will reply with the IP when called. This Discord bot does that keyword to string connection. Ask it to remember a keyword, associate it with a command and then you're done.
